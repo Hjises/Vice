@@ -262,6 +262,7 @@
   {"name": "Overcooked 2", "matches": ["Overcooked2.exe", "overcooked2", "steam_app_728880"]},
   {"name": "Oxygen Not Included", "matches": ["OxygenNotIncluded.exe", "oxygennotincluded", "steam_app_457140"]},
   {"name": "Paladins", "matches": ["paladins", "steam_app_444090"]},
+  {"name": "Pathogenic", "matches": ["pathogenic.x86_64", "steam_app_3808690"]},
   {"name": "Payday 2", "matches": ["payday2_win32_release.exe", "steam_app_218620"]},
   {"name": "Payday 3", "matches": ["PAYDAY3.exe", "steam_app_1272080"]},
   {"name": "Peak", "matches": ["PEAK.exe", "steam_app_3527290"]},
